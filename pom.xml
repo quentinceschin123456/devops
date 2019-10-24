@@ -38,9 +38,29 @@
 				<version>3.6.2</version>
 				<configuration>
 					<!-- or whatever version you use -->
-					<source>1.7</source>
-					<target>1.7</target>
+					<source>1.8</source>
+					<target>1.8</target>
 				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>3.1.2</version>
+				<executions>
+					<execution>
+						<configuration>
+							<mainClass>org.baeldung.executable.
+								JXBusyLabelTest</mainClass>
+							<attachToBuild>true</attachToBuild>
+							<filename>
+								${project.build.finalName}.${project.packaging}
+							</filename>
+						</configuration>
+						<goals>
+							<goal>test-jar</goal>
+						</goals>
+					</execution>
+				</executions>
 			</plugin>
 		</plugins>
 	</build>
