@@ -22,4 +22,12 @@
             <outputDirectory>/</outputDirectory>
         </file>
     </files>
+    <dependencySets>
+        <dependencySet>
+            <outputDirectory>dependency-jars</outputDirectory>
+            <!-- <excludes>
+                <exclude>${project.groupId}:${project.artifactId}:jar:*</exclude>
+            </excludes>  -->
+        </dependencySet>
+    </dependencySets>
 </assembly>
