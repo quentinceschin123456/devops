@@ -11,6 +11,9 @@
         <fileSet>
             <directory>${project.basedir}/conf</directory>
         </fileSet>
+        <fileSet>
+            <directory>${project.basedir}/src</directory>
+        </fileSet>
     </fileSets>
     <files>
         <file>
