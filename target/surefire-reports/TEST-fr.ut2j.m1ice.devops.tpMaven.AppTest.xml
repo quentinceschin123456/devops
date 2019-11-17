@@ -18,7 +18,7 @@
     <property name="user.country" value="FR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\AdminEtu\AppData\Local\Temp\surefire7143334104652488392\surefirebooter507758018029709109.jar C:\Users\AdminEtu\AppData\Local\Temp\surefire7143334104652488392 2019-11-17T18-48-16_144-jvmRun1 surefire8711729761826284059tmp surefire_08949335198161655283tmp"/>
+    <property name="sun.java.command" value="C:\Users\AdminEtu\AppData\Local\Temp\surefire2619116395351487766\surefirebooter5131647043481854200.jar C:\Users\AdminEtu\AppData\Local\Temp\surefire2619116395351487766 2019-11-17T18-54-18_818-jvmRun1 surefire5300658409456588094tmp surefire_04844743031314871951tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\AdminEtu\Desktop\LocalWorkspace\EclipseWorkspace\tpMaven\target\test-classes;C:\Users\AdminEtu\Desktop\LocalWorkspace\EclipseWorkspace\tpMaven\target\classes;C:\Users\AdminEtu\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\AdminEtu\.m2\repository\org\swinglabs\swingx\1.6.1\swingx-1.6.1.jar;C:\Users\AdminEtu\.m2\repository\com\jhlabs\filters\2.0.235\filters-2.0.235.jar;C:\Users\AdminEtu\.m2\repository\org\swinglabs\swing-worker\1.1\swing-worker-1.1.jar;C:\Users\AdminEtu\.m2\repository\org\jdesktop\swingx\jxmapviewer2\1.1\jxmapviewer2-1.1.jar;C:\Users\AdminEtu\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\AdminEtu"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\AdminEtu\AppData\Local\Temp\surefire7143334104652488392\surefirebooter507758018029709109.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\AdminEtu\AppData\Local\Temp\surefire2619116395351487766\surefirebooter5131647043481854200.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
