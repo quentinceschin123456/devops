@@ -115,7 +115,7 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M3</version>
 			</plugin>
-			<plugin>
+			<!-- <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <executions>
@@ -132,7 +132,7 @@
                         </configuration>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin>  --> 
 		</plugins>
 	</build>
 	<reporting>
